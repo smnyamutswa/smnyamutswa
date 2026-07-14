@@ -27,7 +27,7 @@ Here you'll find:
 
 | # | Project | Focus | Demo |
 |---|---|---|---|
-| 1 | [Automated Hybrid SOC Incident Detection & Response Platform](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/01-Automated-Hybrid-SOC) | SIEM, SOAR, Alert Triage, Case Management, Threat Intelligence | 🎥 Coming Soon |
+| 1 | [Automated Hybrid SOC Incident Detection & Response Platform](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/01-Automated-Hybrid-SOC) | SIEM, SOAR, Alert Triage, Case Management, Threat Intelligence | |
 | 2 | [Hybrid Identity Risk Analyzer with Agentic AI](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/02-Hybrid-Identity-Risk-Analyzer) | Active Directory, AWS IAM, AI Investigation, Risk Analysis | 🎥 Coming Soon |
 | 3 | [AI-Assisted Vulnerability Management Platform](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/03-AI-Vulnerability-Management) | OpenVAS, ServiceNow, Automated Remediation, Verification | 🎥 Coming Soon |
 | 4 | [Secure Cloud-Native E-Commerce Platform on AWS](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/04-Secure-AWS-ECommerce-Platform) | AWS Security Architecture, Monitoring, Infrastructure as Code | 🎥 Coming Soon |
