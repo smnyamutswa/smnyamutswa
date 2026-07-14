@@ -72,19 +72,19 @@ Here you'll find:
 
 # 🏆 Certifications
 
-<a href="YOUR_AWS_SECURITY_CREDLY_LINK">
+<a href="https://www.credly.com/badges/1a0a6769-93c4-4f6d-a4f8-7cdc74809d3e/public_url">
 <img src="https://img.shields.io/badge/AWS_Security_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_AWS_CLOUDOPS_CREDLY_LINK">
+<a href="https://www.credly.com/badges/13ecd1ea-4222-475b-b498-ee6d382d2308/public_url">
 <img src="https://img.shields.io/badge/AWS_CloudOps_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_CYSA_CREDLY_LINK">
+<a href="https://www.credly.com/badges/59705383-76ad-48e6-b3cf-3b36c4588f24/public_url">
 <img src="https://img.shields.io/badge/CompTIA_CySA+-E2231A?style=for-the-badge&logo=comptia&logoColor=white"/>
 </a>
 &nbsp;
-<a href="YOUR_SECURITY_PLUS_CREDLY_LINK">
+<a href="https://www.credly.com/badges/59f58920-6728-4fe4-b338-f845493c30d9/public_url">
 <img src="https://img.shields.io/badge/CompTIA_Security+-CC0000?style=for-the-badge&logo=comptia&logoColor=white"/>
 </a>
 
