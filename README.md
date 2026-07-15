@@ -32,7 +32,7 @@ Here you'll find:
 | 3 | [AI-Assisted Vulnerability Management Platform](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/03-AI-Vulnerability-Management) | OpenVAS, ServiceNow, Automated Remediation, Verification | 🎥 Coming Soon |
 | 4 | [Secure Cloud-Native E-Commerce Platform on AWS](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/04-Secure-AWS-ECommerce-Platform) | AWS Security Architecture, Monitoring, Infrastructure as Code | 🎥 Coming Soon |
 | 5 | [AI-Powered SOC Investigation & Alert Enrichment Engine](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/05-AI-SOC-Investigation-Engine) | Splunk, Threat Intelligence, AI Investigation, ServiceNow | 🎥 Coming Soon |
-| 6 | [ACTIVE DIRECTORY PROJECT](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/05-AI-SOC-Investigation-Engine) | ACTIVE DIRECTORY, User and Group Management, Group Policy Configuration, DNS Integration|  |) 
+| 6 | [ACTIVE DIRECTORY PROJECT](https://github.com/smnyamutswa/Active-Directory) | ACTIVE DIRECTORY, User and Group Management, Group Policy Configuration, DNS Integration|  |) 
 
 ---
 
