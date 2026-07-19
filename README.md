@@ -29,7 +29,7 @@ Here you'll find:
 |---|---|---|---|
 | 1 | [Automated Hybrid SOC Incident Detection & Response Platform](https://github.com/smnyamutswa/Cybersecurity-Portfolio/blob/main/01-Automated-Hybrid-SOC/README.md) | SIEM, SOAR, Alert Triage, Case Management, Threat Intelligence | |
 | 2 | [Hybrid Identity Risk Analyzer with Agentic AI](https://github.com/smnyamutswa/Cybersecurity-Portfolio/blob/main/02-Hybrid-Identity-Risk-Analyzer/README.md) | Active Directory, AWS IAM, AI Investigation, Risk Analysis | 🎥 Coming Soon |
-| 3 | [AI-Assisted Vulnerability Management Platform](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/03-AI-Vulnerability-Management) | OpenVAS, ServiceNow, Automated Remediation, Verification | 🎥 Coming Soon |
+| 3 | [AI-Assisted Vulnerability Management Platform](https://github.com/smnyamutswa/Cybersecurity-Portfolio/blob/main/03-AI-Vulnerability-Management/README.md) | OpenVAS, ServiceNow, Automated Remediation, Verification | 🎥 Coming Soon |
 | 4 | [Secure Cloud-Native E-Commerce Platform on AWS](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/04-Secure-AWS-ECommerce-Platform) | AWS Security Architecture, Monitoring, Infrastructure as Code | 🎥 Coming Soon |
 | 5 | [AI-Powered SOC Investigation & Alert Enrichment Engine](https://github.com/smnyamutswa/cybersecurity-portfolio/tree/main/05-AI-SOC-Investigation-Engine) | Splunk, Threat Intelligence, AI Investigation, ServiceNow | 🎥 Coming Soon |
 | 6 | [ACTIVE DIRECTORY PROJECT](https://github.com/smnyamutswa/Active-Directory) | ACTIVE DIRECTORY, User and Group Management, Group Policy Configuration, DNS Integration|  |) 
