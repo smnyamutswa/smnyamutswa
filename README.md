@@ -119,7 +119,7 @@ https://www.linkedin.com/in/YOUR-LINKEDIN
 https://github.com/smnyamutswa/cybersecurity-portfolio
 
 🎥 **YouTube**  
-https://youtube.com/@YOURCHANNEL
+https://www.youtube.com/@StewartNyamutswa
 
 📧 **Email**  
 smnyamutswa@gmail.com
